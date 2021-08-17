@@ -1,2 +1,2 @@
 # image_segmentation
- ImageSegmentationon ImagesofIndianRoadsintodifferentsectionssuchasparking, bridges,vehicles,etc
+Image Segmentation on images of Indian Roads into different sections such as parking, bridges, vehicles, etc.
